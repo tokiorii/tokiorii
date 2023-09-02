@@ -1,3 +1,5 @@
+[![](https://discord.c99.nl/widget/theme-4/696481194443014174.png)](https://discord.com/users/1127468714300805182)
+
 ### 🎸 Hey
 
 🥤 - **Im a 4+ Year Programmer**
