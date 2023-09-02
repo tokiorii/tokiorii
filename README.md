@@ -6,6 +6,8 @@
 
 🍾 - **PY,TS,JS,CPP,HTML,CSS,BASH,LUA**
 
+You can reach me on [discord](https://discord.com/users/1127468714300805182)
+
 ### 🚀 - what i work with
 <img align="left" alt="TypeScript" width="30px" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
@@ -17,5 +19,3 @@
 <img align="left" alt="BASH" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
-
-You can reach me on [discord](https://discord.com/users/1127468714300805182)
