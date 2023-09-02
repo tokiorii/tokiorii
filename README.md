@@ -6,7 +6,7 @@
 
 🍾 - **PY,TS,JS,CPP,HTML,CSS,BASH,LUA**
 
-You can reach me on [discord](https://discord.com/users/1127468714300805182)
+🔪 - You can reach me on [discord](https://discord.com/users/1127468714300805182)
 
 ### 🚀 - what i work with
 <img align="left" alt="TypeScript" width="30px" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png" />
