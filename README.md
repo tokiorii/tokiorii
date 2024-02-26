@@ -1,16 +1,4 @@
-[![](https://discord.c99.nl/widget/theme-4/1127468714300805182.png)](https://discord.com/users/1127468714300805182)
-
-### 🎸 Hey
-
-🥤 - **Im a 4+ Year Programmer**
-
-📢 - **Im interested in loudmicing, coding, learning**
-
-🍾 - **PY,TS,JS,CPP,HTML,CSS,BASH,LUA**
-
-🔪 - You can reach me on [discord](https://discord.com/users/1127468714300805182)
-
-### 🚀 - what i work with
+### i usually work with
 <img align="left" alt="TypeScript" width="30px" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
